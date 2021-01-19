@@ -16,4 +16,8 @@ export default defineMessages({
     id: `${scope}.features`,
     defaultMessage: 'Features',
   },
+  search: {
+    id: `${scope}.search`,
+    defaultMessage: 'Recherche',
+  },
 });
