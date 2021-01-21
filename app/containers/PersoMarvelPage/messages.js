@@ -10,6 +10,6 @@ export const scope = 'boilerplate.containers.PersoMarvelPage';
 export default defineMessages({
   header: {
     id: `${scope}.header`,
-    defaultMessage: 'Page de recherche de personnages Marvel',
+    defaultMessage: 'Recherche de personnages Marvel',
   },
 });
